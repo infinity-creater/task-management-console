@@ -1,0 +1,34 @@
+[
+    {
+        "id": "T001",
+        "title": "complete assignment",
+        "description": "datascience assignment",
+        "priority": "High",
+        "due_date": "2026-08-21",
+        "status": "Completed"
+    },
+    {
+        "id": "T002",
+        "title": "complete crochet project",
+        "description": "finish the crochetting",
+        "priority": "Low",
+        "due_date": "2026-08-23",
+        "status": "Pending"
+    },
+    {
+        "id": "T004",
+        "title": "water the plant",
+        "description": "need to water the plants",
+        "priority": "High",
+        "due_date": "2026-08-20",
+        "status": "Completed"
+    },
+    {
+        "id": "T005",
+        "title": "assignment",
+        "description": "submit your assignment to mam",
+        "priority": "Medium",
+        "due_date": "2026-08-18",
+        "status": "Pending"
+    }
+]
